@@ -18,3 +18,5 @@
 ### 2020
 4. (3/1~3/7) [https://github.com/weizhe0422/MailwithOutsideIP](https://github.com/weizhe0422/MailwithOutsideIP) Grad the static IP and send mail to inform.
 4. (3/24~Now) [https://github.com/weizhe0422/GGQuestionnaireReminder](https://github.com/weizhe0422/GGQuestionnaireReminder) Line Bot to remind staff to report body temperature and search information for COVID-19.
+### 2026
+6. (5/8~Now) [https://github.com/weizhe0422/AccountingApp](https://github.com/weizhe0422/AccountingApp) iOS expense tracker (SwiftUI + SwiftData) with manual entry, Gmail credit-card email import, and a Line Bot webhook backend (Go) that parses bank credit-card notifications forwarded from Line.
